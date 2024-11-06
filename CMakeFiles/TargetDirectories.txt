@@ -1,0 +1,3 @@
+/Users/aryanlamba/Desktop/cmake/build/CMakeFiles/test.dir
+/Users/aryanlamba/Desktop/cmake/build/CMakeFiles/edit_cache.dir
+/Users/aryanlamba/Desktop/cmake/build/CMakeFiles/rebuild_cache.dir
